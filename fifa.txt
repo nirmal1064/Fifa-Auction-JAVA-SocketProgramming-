@@ -1,0 +1,35 @@
+Name : Nirmal Kumar
+Age : 19
+Country : India
+Club : Kerala Blasters
+Position : Striker
+Base Price : 2
+break
+Name : Lionel Messi
+Age : 30
+Country : Argentina
+Club : FC Barcelona
+Position : LW
+Base Price : 2.5
+break
+Name : Neymar Jr.
+Age : 25
+Country : Brazil
+Club : PSG
+Position : Striker
+Base Price : 1.5
+break
+Name : Paulo Dybala
+Age : 23
+Country : Argentina
+Club : Juventus
+Position : RW
+Base Price : 1.8
+break
+Name : Wayne Rooney
+Age : 31
+Country : England
+Club : Everton
+Position : CAM
+Base Price : 1.5
+break
